@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="5d6a40e7-2b3d-423e-8736-4da22511d39f"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="OpenBrowser"
+	namespace="Test_Case.Recordings.Hooks">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="chrome"
+		clearcache="False"
+		clearcodecache="False"
+		clearcookies="False"
+		clearserviceworker="False"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				https://www.boyner.com.tr
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="aeeff518-ee38-4c35-8a2f-ed192b67ea7d"
+	name="Test_CaseRepository"
+	relativepath="..\..\Test_CaseRepository.rxrep">
+		<codegen
+		classname="Test_CaseRepository"
+		namespace="Test_Case">
+		</codegen>
+		<rootfolder
+		id="ec37a76f-32b2-497b-8482-412e44fe3c32"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		OpenBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

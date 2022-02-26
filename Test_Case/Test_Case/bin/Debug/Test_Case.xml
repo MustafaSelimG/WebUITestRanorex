@@ -1,0 +1,1711 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Test_Case</name>
+    </assembly>
+    <members>
+        <member name="T:Test_Case.Recordings.CaseHash1.RegistrationPageElementExist">
+             <summary>
+            The RegistrationPageElementExist recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash1.RegistrationPageElementExist.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash1.RegistrationPageElementExist.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash1.RegistrationPageElementExist.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash1.RegistrationPageElementExist.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash1.RegistrationPageElementExist.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash1.RegistrationPageElementExist.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash1.RegistrationPageElementExist.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash2.EmptyConfirmationBox">
+             <summary>
+            The EmptyConfirmationBox recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash2.EmptyConfirmationBox.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyConfirmationBox.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyConfirmationBox.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash2.EmptyConfirmationBox.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyConfirmationBox.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyConfirmationBox.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash2.EmptyConfirmationBox.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash2.EmptyEmail">
+             <summary>
+            The EmptyEmail recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash2.EmptyEmail.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyEmail.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyEmail.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash2.EmptyEmail.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyEmail.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyEmail.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash2.EmptyEmail.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash2.EmptyName">
+             <summary>
+            The EmptyName recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash2.EmptyName.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyName.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyName.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash2.EmptyName.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyName.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyName.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash2.EmptyName.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash2.EmptyPassword">
+             <summary>
+            The EmptyPassword recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash2.EmptyPassword.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyPassword.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyPassword.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash2.EmptyPassword.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyPassword.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyPassword.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash2.EmptyPassword.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash2.EmptyPhone">
+             <summary>
+            The EmptyPhone recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash2.EmptyPhone.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyPhone.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyPhone.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash2.EmptyPhone.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyPhone.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyPhone.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash2.EmptyPhone.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash2.EmptyRePassword">
+             <summary>
+            The EmptyRePassword recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash2.EmptyRePassword.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyRePassword.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyRePassword.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash2.EmptyRePassword.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyRePassword.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptyRePassword.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash2.EmptyRePassword.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash2.EmptySurname">
+             <summary>
+            The EmptySurname recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash2.EmptySurname.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptySurname.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptySurname.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash2.EmptySurname.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptySurname.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash2.EmptySurname.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash2.EmptySurname.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash3.BlankEmail">
+             <summary>
+            The BlankEmail recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash3.BlankEmail.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankEmail.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankEmail.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash3.BlankEmail.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankEmail.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankEmail.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash3.BlankEmail.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash3.BlankName">
+             <summary>
+            The BlankName recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash3.BlankName.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankName.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankName.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash3.BlankName.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankName.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankName.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash3.BlankName.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash3.BlankPassword">
+             <summary>
+            The BlankPassword recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash3.BlankPassword.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankPassword.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankPassword.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash3.BlankPassword.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankPassword.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankPassword.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash3.BlankPassword.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash3.BlankPhone">
+             <summary>
+            The BlankPhone recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash3.BlankPhone.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankPhone.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankPhone.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash3.BlankPhone.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankPhone.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankPhone.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash3.BlankPhone.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash3.BlankSurname">
+             <summary>
+            The BlankSurname recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash3.BlankSurname.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankSurname.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankSurname.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash3.BlankSurname.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankSurname.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash3.BlankSurname.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash3.BlankSurname.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash4.AddingMultipleProductsToBasket">
+             <summary>
+            The AddingMultipleProductsToBasket recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash4.AddingMultipleProductsToBasket.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash4.AddingMultipleProductsToBasket.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash4.AddingMultipleProductsToBasket.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash4.AddingMultipleProductsToBasket.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash4.AddingMultipleProductsToBasket.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash4.AddingMultipleProductsToBasket.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash4.AddingMultipleProductsToBasket.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash5.AddMultipleProductsToFav">
+             <summary>
+            The AddMultipleProductsToFav recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash5.AddMultipleProductsToFav.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash5.AddMultipleProductsToFav.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash5.AddMultipleProductsToFav.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash5.AddMultipleProductsToFav.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash5.AddMultipleProductsToFav.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash5.AddMultipleProductsToFav.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash5.AddMultipleProductsToFav.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash6.VerifyAfterBasket">
+             <summary>
+            The VerifyAfterBasket recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash6.VerifyAfterBasket.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash6.VerifyAfterBasket.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash6.VerifyAfterBasket.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash6.VerifyAfterBasket.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash6.VerifyAfterBasket.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash6.VerifyAfterBasket.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash6.VerifyAfterBasket.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash7.SignOut">
+             <summary>
+            The SignOut recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash7.SignOut.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash7.SignOut.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash7.SignOut.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash7.SignOut.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash7.SignOut.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash7.SignOut.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash7.SignOut.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.CaseHash8.ReportAskedQuestion">
+             <summary>
+            The ReportAskedQuestion recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.CaseHash8.ReportAskedQuestion.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash8.ReportAskedQuestion.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash8.ReportAskedQuestion.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.CaseHash8.ReportAskedQuestion.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash8.ReportAskedQuestion.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.CaseHash8.ReportAskedQuestion.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.CaseHash8.ReportAskedQuestion.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.Helper.SignIn">
+             <summary>
+            The SignIn recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.Helper.SignIn.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.Helper.SignIn.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.Helper.SignIn.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.Helper.SignIn.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.Helper.SignIn.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.Helper.SignIn.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.Helper.SignIn.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.Hooks.CloseBrowser">
+             <summary>
+            The CloseBrowser recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.Hooks.CloseBrowser.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.Hooks.CloseBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.Hooks.CloseBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.Hooks.CloseBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.Hooks.CloseBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.Hooks.CloseBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.Hooks.CloseBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Recordings.Hooks.OpenBrowser">
+             <summary>
+            The OpenBrowser recording.
+             </summary>
+        </member>
+        <member name="F:Test_Case.Recordings.Hooks.OpenBrowser.repo">
+            <summary>
+            Holds an instance of the global::Test_Case.Test_CaseRepository repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.Hooks.OpenBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.Hooks.OpenBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Test_Case.Recordings.Hooks.OpenBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Recordings.Hooks.OpenBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Test_Case.Recordings.Hooks.OpenBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Recordings.Hooks.OpenBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Test_CaseRepository">
+            <summary>
+            The class representing the Test_CaseRepository element repository.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Test_CaseRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the Test_CaseRepository element repository.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepository.TestCaseStudy">
+            <summary>
+            The TestCaseStudy folder.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Test_CaseRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder">
+            <summary>
+            The TestCaseStudyAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new TestCaseStudy  folder.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.HeaderContainerBoyner">
+            <summary>
+            The HeaderContainerBoyner item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.HeaderContainerBoynerInfo">
+            <summary>
+            The HeaderContainerBoyner item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnSignIn">
+            <summary>
+            The BtnSignIn item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnSignInInfo">
+            <summary>
+            The BtnSignIn item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnRegister">
+            <summary>
+            The BtnRegister item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnRegisterInfo">
+            <summary>
+            The BtnRegister item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.HeaderUyeOl">
+            <summary>
+            The HeaderUyeOl item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.HeaderUyeOlInfo">
+            <summary>
+            The HeaderUyeOl item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldName">
+            <summary>
+            The FieldName item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldNameInfo">
+            <summary>
+            The FieldName item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldSurname">
+            <summary>
+            The FieldSurname item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldSurnameInfo">
+            <summary>
+            The FieldSurname item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldEmail">
+            <summary>
+            The FieldEmail item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldEmailInfo">
+            <summary>
+            The FieldEmail item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldPassword">
+            <summary>
+            The FieldPassword item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldPasswordInfo">
+            <summary>
+            The FieldPassword item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldPasswordConfirmed">
+            <summary>
+            The FieldPasswordConfirmed item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldPasswordConfirmedInfo">
+            <summary>
+            The FieldPasswordConfirmed item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldPhone">
+            <summary>
+            The FieldPhone item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.FieldPhoneInfo">
+            <summary>
+            The FieldPhone item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnFeedback">
+            <summary>
+            The BtnFeedback item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnFeedbackInfo">
+            <summary>
+            The BtnFeedback item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForName">
+            <summary>
+            The ErrorForName item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForNameInfo">
+            <summary>
+            The ErrorForName item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForSurname">
+            <summary>
+            The ErrorForSurname item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForSurnameInfo">
+            <summary>
+            The ErrorForSurname item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForEmail">
+            <summary>
+            The ErrorForEmail item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForEmailInfo">
+            <summary>
+            The ErrorForEmail item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForPassword">
+            <summary>
+            The ErrorForPassword item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForPasswordInfo">
+            <summary>
+            The ErrorForPassword item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForPasswordConfirmed">
+            <summary>
+            The ErrorForPasswordConfirmed item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForPasswordConfirmedInfo">
+            <summary>
+            The ErrorForPasswordConfirmed item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForPhone">
+            <summary>
+            The ErrorForPhone item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForPhoneInfo">
+            <summary>
+            The ErrorForPhone item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForMembershipAgreement">
+            <summary>
+            The ErrorForMembershipAgreement item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ErrorForMembershipAgreementInfo">
+            <summary>
+            The ErrorForMembershipAgreement item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnQuickLk1">
+            <summary>
+            The BtnQuickLk1 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnQuickLk1Info">
+            <summary>
+            The BtnQuickLk1 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnAddBasket1">
+            <summary>
+            The BtnAddBasket1 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnAddBasket1Info">
+            <summary>
+            The BtnAddBasket1 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnQuickLk2">
+            <summary>
+            The BtnQuickLk2 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnQuickLk2Info">
+            <summary>
+            The BtnQuickLk2 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.H1TagBasketCount">
+            <summary>
+            The H1TagBasketCount item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.H1TagBasketCountInfo">
+            <summary>
+            The H1TagBasketCount item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnBasketPage">
+            <summary>
+            The BtnBasketPage item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnBasketPageInfo">
+            <summary>
+            The BtnBasketPage item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BasketItem1">
+            <summary>
+            The BasketItem1 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BasketItem1Info">
+            <summary>
+            The BasketItem1 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BasketItem2">
+            <summary>
+            The BasketItem2 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BasketItem2Info">
+            <summary>
+            The BasketItem2 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ButtonTagGiriş">
+            <summary>
+            The ButtonTagGiriş item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ButtonTagGirişInfo">
+            <summary>
+            The ButtonTagGiriş item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.CustomerPassword">
+            <summary>
+            The CustomerPassword item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.CustomerPasswordInfo">
+            <summary>
+            The CustomerPassword item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.CustomerEmail">
+            <summary>
+            The CustomerEmail item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.CustomerEmailInfo">
+            <summary>
+            The CustomerEmail item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnEGift">
+            <summary>
+            The BtnEGift item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnEGiftInfo">
+            <summary>
+            The BtnEGift item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnAddBasket2">
+            <summary>
+            The BtnAddBasket2 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.BtnAddBasket2Info">
+            <summary>
+            The BtnAddBasket2 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.OStepItem">
+            <summary>
+            The OStepItem item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.OStepItemInfo">
+            <summary>
+            The OStepItem item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.OStepItem1">
+            <summary>
+            The OStepItem1 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.OStepItem1Info">
+            <summary>
+            The OStepItem1 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.Delivery">
+            <summary>
+            The Delivery item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.DeliveryInfo">
+            <summary>
+            The Delivery item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.RegisterForm">
+            <summary>
+            The RegisterForm folder.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.ProductList">
+            <summary>
+            The ProductList folder.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.PageWrapper">
+            <summary>
+            The PageWrapper folder.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.TestCaseStudyAppFolder.DivTagRow">
+            <summary>
+            The DivTagRow folder.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder">
+            <summary>
+            The RegisterFormFolder folder.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RegisterForm  folder.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.SelectGender">
+            <summary>
+            The SelectGender item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.SelectGenderInfo">
+            <summary>
+            The SelectGender item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.SelectDay">
+            <summary>
+            The SelectDay item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.SelectDayInfo">
+            <summary>
+            The SelectDay item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.SelectMonth">
+            <summary>
+            The SelectMonth item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.SelectMonthInfo">
+            <summary>
+            The SelectMonth item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.SelectYear">
+            <summary>
+            The SelectYear item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.SelectYearInfo">
+            <summary>
+            The SelectYear item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.TextClarification">
+            <summary>
+            The TextClarification item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.TextClarificationInfo">
+            <summary>
+            The TextClarification item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.ChkBoxConfirmation">
+            <summary>
+            The ChkBoxConfirmation item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.ChkBoxConfirmationInfo">
+            <summary>
+            The ChkBoxConfirmation item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.ChkBoxPermit">
+            <summary>
+            The ChkBoxPermit item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.ChkBoxPermitInfo">
+            <summary>
+            The ChkBoxPermit item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.TextReCaptcha">
+            <summary>
+            The TextReCaptcha item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.TextReCaptchaInfo">
+            <summary>
+            The TextReCaptcha item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.BtnSubmit">
+            <summary>
+            The BtnSubmit item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.BtnSubmitInfo">
+            <summary>
+            The BtnSubmit item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.CustomCheckboxLabel">
+            <summary>
+            The CustomCheckboxLabel item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.CustomCheckboxLabelInfo">
+            <summary>
+            The CustomCheckboxLabel item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.CustomCheckboxLabel1">
+            <summary>
+            The CustomCheckboxLabel1 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.CustomCheckboxLabel1Info">
+            <summary>
+            The CustomCheckboxLabel1 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.HeaderUserMenu">
+            <summary>
+            The HeaderUserMenu item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.HeaderUserMenuInfo">
+            <summary>
+            The HeaderUserMenu item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.UEyelikBilgilerimiVeIletişimIzinleri">
+            <summary>
+            The UEyelikBilgilerimiVeIletişimIzinleri item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.RegisterFormFolder.UEyelikBilgilerimiVeIletişimIzinleriInfo">
+            <summary>
+            The UEyelikBilgilerimiVeIletişimIzinleri item info.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Test_CaseRepositoryFolders.ProductListFolder">
+            <summary>
+            The ProductListFolder folder.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ProductList  folder.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.Product1">
+            <summary>
+            The Product1 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.Product1Info">
+            <summary>
+            The Product1 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.BtnQuickLk2">
+            <summary>
+            The BtnQuickLk2 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.BtnQuickLk2Info">
+            <summary>
+            The BtnQuickLk2 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.Product2">
+            <summary>
+            The Product2 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.Product2Info">
+            <summary>
+            The Product2 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.BtnAddFav1">
+            <summary>
+            The BtnAddFav1 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.BtnAddFav1Info">
+            <summary>
+            The BtnAddFav1 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.BtnAddFav2">
+            <summary>
+            The BtnAddFav2 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.ProductListFolder.BtnAddFav2Info">
+            <summary>
+            The BtnAddFav2 item info.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder">
+            <summary>
+            The PageWrapperFolder folder.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new PageWrapper  folder.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.SpanTagDijitalGiftCard25">
+            <summary>
+            The SpanTagDijitalGiftCard25 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.SpanTagDijitalGiftCard25Info">
+            <summary>
+            The SpanTagDijitalGiftCard25 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.SpanTagDijitalGiftCard50">
+            <summary>
+            The SpanTagDijitalGiftCard50 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.SpanTagDijitalGiftCard50Info">
+            <summary>
+            The SpanTagDijitalGiftCard50 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.HeaderUyeGirisi">
+            <summary>
+            The HeaderUyeGirisi item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.HeaderUyeGirisiInfo">
+            <summary>
+            The HeaderUyeGirisi item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.TestTest">
+            <summary>
+            The TestTest item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.TestTestInfo">
+            <summary>
+            The TestTest item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.BtnFavPage">
+            <summary>
+            The BtnFavPage item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.BtnFavPageInfo">
+            <summary>
+            The BtnFavPage item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.PersonalFavorite1">
+            <summary>
+            The PersonalFavorite1 item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.PersonalFavorite1Info">
+            <summary>
+            The PersonalFavorite1 item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.BtnUser">
+            <summary>
+            The BtnUser item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.BtnUserInfo">
+            <summary>
+            The BtnUser item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.BtnFavorites">
+            <summary>
+            The BtnFavorites item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.BtnFavoritesInfo">
+            <summary>
+            The BtnFavorites item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.BtnBasket">
+            <summary>
+            The BtnBasket item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.BtnBasketInfo">
+            <summary>
+            The BtnBasket item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.BtnSignOut">
+            <summary>
+            The BtnSignOut item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.BtnSignOutInfo">
+            <summary>
+            The BtnSignOut item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.Yardım">
+            <summary>
+            The Yardım item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.YardımInfo">
+            <summary>
+            The Yardım item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.SpanTag300TLPlusAlışverişlerinizdeUE">
+            <summary>
+            The SpanTag300TLPlusAlışverişlerinizdeUE item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.SpanTag300TLPlusAlışverişlerinizdeUEInfo">
+            <summary>
+            The SpanTag300TLPlusAlışverişlerinizdeUE item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.YARDIM">
+            <summary>
+            The YARDIM item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.PageWrapperFolder.YARDIMInfo">
+            <summary>
+            The YARDIM item info.
+            </summary>
+        </member>
+        <member name="T:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder">
+            <summary>
+            The DivTagRowFolder folder.
+            </summary>
+        </member>
+        <member name="M:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new DivTagRow  folder.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.SepetiOnayla">
+            <summary>
+            The SepetiOnayla item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.SepetiOnaylaInfo">
+            <summary>
+            The SepetiOnayla item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.H3TagTeslim">
+            <summary>
+            The H3TagTeslim item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.H3TagTeslimInfo">
+            <summary>
+            The H3TagTeslim item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.H3TagGueven">
+            <summary>
+            The H3TagGueven item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.H3TagGuevenInfo">
+            <summary>
+            The H3TagGueven item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.BoynerComTryeUeyeOlduğunuzdaYenilik">
+            <summary>
+            The BoynerComTryeUeyeOlduğunuzdaYenilik item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.BoynerComTryeUeyeOlduğunuzdaYenilikInfo">
+            <summary>
+            The BoynerComTryeUeyeOlduğunuzdaYenilik item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.NedenUeyeOlmalıyım">
+            <summary>
+            The NedenUeyeOlmalıyım item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.NedenUeyeOlmalıyımInfo">
+            <summary>
+            The NedenUeyeOlmalıyım item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.UEyeOlmadanAlışverişYapabilirMiyim">
+            <summary>
+            The UEyeOlmadanAlışverişYapabilirMiyim item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.UEyeOlmadanAlışverişYapabilirMiyimInfo">
+            <summary>
+            The UEyeOlmadanAlışverişYapabilirMiyim item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.UEyeOlmadanDaBoynerComTrUezerinden">
+            <summary>
+            The UEyeOlmadanDaBoynerComTrUezerinden item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.UEyeOlmadanDaBoynerComTrUezerindenInfo">
+            <summary>
+            The UEyeOlmadanDaBoynerComTrUezerinden item info.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.ŞifremiUnuttumNeYapmalıyım">
+            <summary>
+            The ŞifremiUnuttumNeYapmalıyım item.
+            </summary>
+        </member>
+        <member name="P:Test_Case.Test_CaseRepositoryFolders.DivTagRowFolder.ŞifremiUnuttumNeYapmalıyımInfo">
+            <summary>
+            The ŞifremiUnuttumNeYapmalıyım item info.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

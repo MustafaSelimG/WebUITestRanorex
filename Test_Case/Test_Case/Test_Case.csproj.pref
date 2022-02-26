@@ -1,0 +1,17 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="Recordings\Case#2\EmptyEmail.rxrec" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="Test_Case.rxtst" />
+    <Element value="Recordings\Case#2\EmptyEmail.rxrec" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <fileNames value="" />
+      <runOnBuild value="False" />
+    </Properties>
+    <Array name="recentusercodeselections" />
+  </Properties>
+</Properties>

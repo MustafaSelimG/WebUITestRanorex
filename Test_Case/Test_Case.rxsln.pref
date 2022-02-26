@@ -1,0 +1,25 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{BDA757DA-4772-4C79-A12C-E4F414993FDC}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>01ff67b1-8f8b-4740-9bb4-d15012eda992</string>
+      <string>097599cd-4ef6-4436-aa63-c8d130fa3ee0</string>
+      <string>d557682f-0725-4d81-9213-d8aef196e627</string>
+      <string>38842b68-247c-4b2e-aa23-61d944e0a951</string>
+      <string>ae481b71-c652-4ba5-890c-c0b535019f85</string>
+      <string>9f814199-e7fb-428d-b070-3d1a9e97e714</string>
+      <string>70ed4c2a-1d5d-45d6-b4c9-93e0cd987c1e</string>
+      <string>4311dd7c-4a59-4dab-b092-11a68348f144</string>
+      <string>da2df36c-5d53-47aa-bea7-6f1c8cd1780d</string>
+      <string>a2a2a571-e812-401d-b471-1f040d145be9</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution Test_Case[Test_Case[Recordings[Case#2[]]Test_CaseRepository.rxrep[]]]]&#xD;&#xA;Solution Test_Case\Test_Case\Recordings\Case#2\EmptyEmail.rxrec&#xD;&#xA;Solution Test_Case" />
+  <StartupProject value="{BDA757DA-4772-4C79-A12C-E4F414993FDC}" />
+</Properties>
