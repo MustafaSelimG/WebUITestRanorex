@@ -1,4 +1,4 @@
-# WebUITestRanorex
+# <img src="https://user-images.githubusercontent.com/88919177/155840625-25e87cbe-0bce-4ecd-89e4-06aecdbc812a.jpg" width=50 > Web UI Test with Ranorex Studio
 
 **Ranorex Studio** </br>
 - Ranorex is a powerful tool for test automation. It is a GUI test automation framework used for the testing of web-based, desktop, and mobile applications. Ranorex does not have its own scripting language to automate application. It uses standard programming languages such as VB.NET and C#.
